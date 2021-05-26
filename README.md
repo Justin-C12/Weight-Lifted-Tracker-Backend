@@ -1,1 +1,1 @@
-# Weight-Lifted-Tracker-Backend
+# Weight-Lift-Tracker-Backend
